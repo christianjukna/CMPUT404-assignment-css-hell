@@ -1,0 +1,127 @@
+body {text-rendering: optimizeLegibility;
+    margin: 0 auto;
+    color: #333;
+    font-family: garamond;
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+    font-size: 12px;
+    line-height: 1.4;
+    background: #c1c1c1;
+	background: -moz-linear-gradient(top, #c1c1c1 0%, #F4F4F4 100%);
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c1c1c1), color-stop(100%,#F4F4F4));
+}
+p,div {
+	font-family: garamond;
+	margin-left: 10%;
+	margin-right: 10%;
+	text-align: center;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+    border: 4px;
+	box-shadow: 2.5px 2.5px 1.25px #888;
+		padding: 10px;
+	background: #F4F4F4;
+}
+table{
+	font-family: garamond;
+	margin-left: 10%;
+	margin-right: 10%;
+	position: relative;
+    margin: left;
+    left: 50px; 
+}
+img {
+    border-radius: 2px;
+    border: 2px solid #F4F4F4;
+	max-height:50%;
+    position: relative;
+    margin: auto;
+    left: 0; 
+    right: 0;
+    top: 0;
+    bottom: 0;
+    -moz-border-radius: 15px;
+	border-radius: 15px;
+    border: 4px;
+	box-shadow: 2.5px 2.5px 1.25px #888;
+		padding: 10px;
+	background: #F4F4F4;
+}
+pre {
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+	background: #F4F4F4;
+	font-family: garamond;
+	box-shadow: 2.5px 2.5px 1.25px #888;
+		padding: 10px;
+	margin-top: 10px;
+	margin-right: 10%;
+	text-align: center;
+	margin-left: 10%;
+}
+h1{
+	margin-left: 5%;
+	margin-right: 5%;
+	font-family: garamond;
+	text-align: center;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+    border: 4px;
+	box-shadow: 2.5px 2.5px 1.25px #888;
+		padding: 10px;
+	letter-spacing: 10px;
+	background: #F4F4F4;
+}
+h5{
+	margin: 10px;
+	font-family: garamond;
+	text-align: center;
+	background: transparent;
+}
+
+h2{
+	margin-left: 5%;
+	margin-right: 5%;
+	font-family: garamond;
+	text-align: center;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+    border: 4px;
+	box-shadow: 2.5px 2.5px 1.25px #888;
+		padding: 10px;
+	letter-spacing: 10px;
+	background: #F4F4F4;
+}
+
+small{
+	
+	font-family: garamond;
+	font-size: 28px;
+	text-indent: 200px;
+	background: #F4F4F4;
+}
+
+ol{
+	margin: 10px;
+	font-family: garamond;
+	font-size: 14px;
+	background: #F4F4F4;
+}
+hr{
+	visibility: hidden;
+}
+h3{
+	margin: 10px;
+	font-family: garamond;
+	margin-top: 10px;
+	margin-right: 25%;
+	text-align: center;
+	margin-left: 25%;
+	background: #F4F4F4;
+	border-radius: 2px;
+    border: 2px solid #F4F4F4;
+    -moz-border-radius: 15px;
+	border-radius: 15px;
+    box-shadow: 2.5px 2.5px 1.25px #888;
+		padding: 10px;
+		letter-spacing: 5px;
+}
