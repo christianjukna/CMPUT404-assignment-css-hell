@@ -9,8 +9,19 @@ body {text-rendering: optimizeLegibility;
 	background: -moz-linear-gradient(top, #c1c1c1 0%, #F4F4F4 100%);
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#c1c1c1), color-stop(100%,#F4F4F4));
 }
-p,div {
+div{
+	margin-left: auto;
+	margin-right: auto;
+	-moz-border-radius: 15px;
+	border-radius: 15px;
+    border: 4px;
+	box-shadow: 2.5px 2.5px 1.25px #888;
+		padding: 20px;
+	background: #F4F4F4;
+}
+p {
 	font-family: garamond;
+	position: relative;
 	margin-left: 10%;
 	margin-right: 10%;
 	text-align: center;
@@ -20,6 +31,7 @@ p,div {
 	box-shadow: 2.5px 2.5px 1.25px #888;
 		padding: 10px;
 	background: #F4F4F4;
+	max-width: 50%;
 }
 table{
 	font-family: garamond;
@@ -34,16 +46,13 @@ img {
     border: 2px solid #F4F4F4;
 	max-height:50%;
     position: relative;
-    margin: auto;
-    left: 0; 
-    right: 0;
-    top: 0;
-    bottom: 0;
-    -moz-border-radius: 15px;
-	border-radius: 15px;
+    margin-left:  auto;
+    margin-right: auto;
+    -moz-border-radius: 10px;
+	border-radius: 10px;
     border: 4px;
 	box-shadow: 2.5px 2.5px 1.25px #888;
-		padding: 10px;
+		padding: 5px;
 	background: #F4F4F4;
 }
 pre {
