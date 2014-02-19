@@ -25,4 +25,6 @@ CHANGES:
 -Removed the the entirety of the style tags in the HTML
 -Added link to my stylesheet: "gStyle.css"
 
+REFERENCES:
+http://www.morguefile.com/archive/display/173468 for the background
 

@@ -1,0 +1,116 @@
+body{
+
+	background: url(../images/backgrnd.jpg) no-repeat center top fixed;
+	display: block;	
+	-moz-background-size: cover;
+		background-size: cover;
+	line-height: 16px;
+	background-color: #00FF00;
+}
+.clear
+{
+	clear: both;
+}
+
+.menu{
+	margin : 20px 0px 35px;
+	height: 20px;	
+}
+.page-wrap{
+	position: relative;
+	margin:0px auto;
+	width: 1000px;
+}
+.main-content{
+	background: #00FF00;
+	-moz-box-shadow: 1px 1px 1px rgba(0,0,0,1);
+	-webkit-box-shadow:  1px 1px 1px rgba(0,0,0,1);
+	box-shadow:  1px 1px 1px rgba(0,0,0,1);
+	margin-bottom: 75px;
+}
+.body-contents{
+	padding: 5px 5px 0px;
+	margin-bottom: 5px;
+}
+
+.background-image{
+	
+	width: 1000px;
+	height: 349px;
+	overflow: hidden;
+	position: relative;
+	top: -3px;
+	margin-bottom: 5px;
+}
+.me{
+	
+	width: 150px;
+	height: 150px;
+	overflow: hidden;
+	position: relative;
+	top: -3px;
+}
+
+ .left-body{
+ 	margin: 9px 21px 18px 9px;
+ 	color: grey;
+ 	float: left;
+ 	width: 200px;
+ 	background: #336CC1;
+ }
+ .left-body p{
+ 	word-wrap:break-word;
+ 	font-family: arial;
+ }
+
+ .center{
+ 	margin: 9px 0px 11px 9px;
+ 	float: left;
+ 	width: 471px;
+ }
+
+ 
+ .img{
+ 	width: 200px;
+ 	height: 124px;
+ 	margin: 10px 0px;
+
+ }
+ .black-border{
+	height: 25px;
+	top: -30px;
+	position:relative;
+}
+.black-border p{
+	color: grey;
+    font-size: 2em;
+    padding-left: 7px;
+    padding-top: 5px;
+    font-family: "Comic Sans MS";
+}
+.body-left{
+	float: left;
+	height: 143px;
+	margin: 0 13px 15px 0;
+}
+.main-body-left{
+	font-size: 0.5em;
+	margin-bottom: 31px;
+}
+ br{
+ 	line-height: 2px;
+ }
+ .txthead{
+ 	font-size: 2em;
+ 	padding: 19px 20px 12px;
+ 	font-family: "Comic Sans MS";
+ 	text-decoration: underline;
+ }
+ .sidebar-p-header{
+ 	left-padding: 15px;
+ 	font-size: 1.2em;
+ }
+ .sidebar-p-body{
+ 	left-padding: 25px;
+ 	margin-left: 20px
+ }
