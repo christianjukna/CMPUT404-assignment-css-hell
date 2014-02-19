@@ -21,4 +21,8 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+CHANGES:
+-Removed the the entirety of the style tags in the HTML
+-Added link to my stylesheet: "gStyle.css"
+
 
